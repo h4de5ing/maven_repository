@@ -25,8 +25,10 @@ allprojects {
 ```
 dependencies {
     implementation 'com.github.h4de5ing.base:base:1.0-20210125'//基础工具
+	implementation 'com.github.h4de5ing.baseui:baseui:1.0-20211103'//UI基础工具
     implementation 'com.github.h4de5ing.gsoncommon:gsoncommon:1.0-20210122'//json解析工具
     implementation 'com.github.h4de5ing.netlib:netlib:1.0-20210126'//网络工具
+	implementation 'com.github.h4de5ing.filepicker:filepicker:1.0-20211104'//文件选择工具
 }
 ```
 
