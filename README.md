@@ -30,6 +30,7 @@ dependencies {
     implementation 'com.github.h4de5ing.netlib:netlib:1.0-20210126'//网络工具
 	implementation 'com.github.h4de5ing.filepicker:filepicker:1.0-20211104'//文件选择工具
 	implementation 'com.github.h4de5ing.serialportlib:serialportlib:1.0-20211105'//串口通信工具
+	implementation 'com.github.h4de5ing.zxing:zxing:1.0-20211112'//zxing 扫描
 }
 ```
 
